@@ -10,8 +10,7 @@ I built this Power BI dashboard to explore e-commerce sales data and understand 
 • Average order value and delivery time analysis  
 • Products with the highest sales volume  
 
-##Dataset Used
-Sample e-commerce dataset for analysis practice
+Dataset Used: Sample e-commerce dataset for analysis practice
 
 ## 🛠 Tools & Skills Used
 • Power BI for visualization  
