@@ -10,10 +10,17 @@ I built this Power BI dashboard to explore e-commerce sales data and understand 
 • Average order value and delivery time analysis  
 • Products with the highest sales volume  
 
+Dataset: Sample e-commerce dataset for analysis practice
+
 ## 🛠 Tools & Skills Used
 • Power BI for visualization  
 • MySQL for data querying
 • Data cleaning and transformation  
+
+## 📈 Key Findings
+• Revenue was highest in Q4, showing seasonal demand  
+• A small group of customers contributed a large share of revenue  
+• Certain products consistently outperformed others
 
 ## 💡 Why This Project Matters
 Through this dashboard, businesses can:
